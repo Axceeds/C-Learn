@@ -1,1 +1,23 @@
-arrName[i] becomes *(arrName+i) 极为重要，数组-指针基本等价
+1.char ch[10]：
+cin>>ch;
+cin.getline(ch, 20);
+strlen(ch)
+
+
+2.string str:
+cin>>str;
+getline(cin, str)
+str.size()
+
+3.getline()与get()
+getline以换行符未结束，不保存换行符
+get继续把换行符放在输入队列中，使用cin.get()解决
+
+4.type_name * ptr = new type_name[]
+
+
+5.arrName[i] becomes *(arrName+i) 极为重要，数组-指针基本等价
+
+6.VS调整格式化代码
+
+
