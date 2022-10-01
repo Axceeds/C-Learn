@@ -1,4 +1,4 @@
-1.char ch[10]：
+#1.char ch[10]：
 cin>>ch;
 cin.getline(ch, 20);
 strlen(ch)
