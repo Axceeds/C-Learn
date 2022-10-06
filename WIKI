@@ -1,2 +1,4 @@
 1.VS格式化代码
 https://blog.csdn.net/zhouyuanqwe/article/details/123091345
+2.关于构造函数和析构函数的详细例程
+https://www.pudn.com/news/633ba7f12aaf6043c9e7fc76.html
