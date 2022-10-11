@@ -1,3 +1,1 @@
-# C-Learn
-C++learn
-points and WIKI
+详见WIKI->ChapterSummary or other files
